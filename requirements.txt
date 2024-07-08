@@ -1,0 +1,7 @@
+langchain
+langchain_community
+sentence-transformers
+sentence-transformers==2.2.2
+faiss-cpu
+youtube-transcript-api
+transformers
